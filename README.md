@@ -1,4 +1,4 @@
-# GPS_Tracking_Cat_Collar_XIAO_ESP32-C3
+# GPS Tracking Cat Collar XIAO ESP32-C3
  An Arduino project to log GPS data to a MicroSD using the tiny XIAO ESP32-C3. The components are small and light enough to fit around a cat collar! Now we know where the cat runs around at night :-)
 
  This is a very simple project that reads GPS data and then writes the data to a MicroSD card in a format that can be used to create custom GoogleMaps (https://www.google.com/maps/d/)
