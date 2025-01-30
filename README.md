@@ -17,3 +17,4 @@ LED Status:
 * Red LED 2.5V 20mA, Small :-)
 * 1K ohm resistor, Very small ;-D (I just need a dim LED blink at night, so 1K works fine)
 
+![Image1](https://github.com/ClaudeMarais/GPS_Tracking_Cat_Collar_XIAO_ESP32-C3/blob/main/Images/image1.jpg?raw=true)
